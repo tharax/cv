@@ -24,29 +24,35 @@ My job is to deliver working, well tested solutions that follow industry best pr
 
 ## Professional History
 
-Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
-*June 2017 - Current*<br>
-Designed and developed various services in a microservices architecture for an e-payments company.<br>
+Contract Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
+*June 2017 - September 2017*<br>
+Designed and developed various services in a microservices architecture for an e-payments start-up. Each service was written in Go or Python, with MySQL or Postgres as the Database, tests written in Cucumber then deployed using Docker. I worked on every part of the stack.<br>
+**Stack:** Go, MySQL, Docker, Cucumber, Bash
 
-Software Engineer @ **[Rosser Software](https://rossersoftware.com)**<br>
+Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
+**Stack:** Go, MySQL, Bash
 
 Contract Software Engineer @ **[Series Eight](https://serieseight.com)**<br>
 *February - March 2017*<br>
-Designed, developed, and deployed a Twitter datamining application for location and photographic data.<br>
+Designed, developed, and deployed a Twitter datamining application for location and photographic data, for an advertising campaign.<br>
+**Stack:** Go, MySQL, Bash
 
 Lead Developer @ **[Pershing](https://www.pershing.com)**<br>
 *April 2015 – August 2016*<br>
-Developed and maintained Front Office order processing software for automated and manual trading of funds & equities across the UK & Europe.<br>
+Developed and maintained Front Office order processing software for automated and manual trading of funds & equities across the UK & Europe. I was also involved with triaging potentional missed orders and integration between our services and 3rd party vendors.<br>
+**Stack:** C#, SQL Server, Powershell
 
 Software Engineer @ **[Fraedom](https://www.fraedom.com)**<br>
 *March 2013 – January 2015*<br>
-Developed and maintained extract interface and data export systems and custom interfacing work for big clients. Designed, developed and deployed internal tools.<br>
+Developed and maintained extract interface and data export systems and custom interfacing work for big clients. We also did configuration and custom data reports as requested. Designed, developed and deployed internal tools to assist customer support.<br>
+**Stack:** C#, VB.NET, XSLT, SQL Server, Powershell, Angular
 
 Contract Software Engineer @ **[Attaché Software](https://attachesoftware.com)**<br>
 *March 2012 – February 2013*<br>
-Designed and developed reporting features and custom reporting modules for accounting and inventory systems.<br>
+Designed and developed reporting features and custom reporting modules for accounting and inventory systems. Worked directly with clients to design the reports they needed. Also developed the dashboards feature and provided legacy support.<br>
+**Stack:** C#, Delphi
 
 ## Qualifications
 
