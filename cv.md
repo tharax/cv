@@ -14,7 +14,7 @@ I do not need VISA sponsorship.<br>
 
 ## Skills
 
-Go (Golang), C#, F#, SQL Server, MySQL, Git, Docker, Bash, Powershell, Javascript. <br>
+Go (Golang), React.js, C#, SQL Server, MySQL, Git, Docker, Bash, Powershell, Javascript. <br>
 
 ## Profile
 
@@ -27,7 +27,7 @@ My job is to deliver working, well tested solutions that follow industry best pr
 Contract Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
 *June 2017 - September 2017*<br>
 Designed and developed various services in a microservices architecture for an e-payments start-up. Each service was written in Go or Python, with MySQL or Postgres as the Database, tests written in Cucumber then deployed using Docker. I worked on every part of the stack.<br>
-**Stack:** Go, MySQL, Docker, Cucumber, Bash
+**Stack:** Go, MySQL, Docker, Cucumber, Bash, React.js
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
@@ -47,7 +47,7 @@ Developed and maintained Front Office order processing software for automated an
 Software Engineer @ **[Fraedom](https://www.fraedom.com)**<br>
 *March 2013 – January 2015*<br>
 Developed and maintained extract interface and data export systems and custom interfacing work for big clients. We also did configuration and custom data reports as requested. Designed, developed and deployed internal tools to assist customer support.<br>
-**Stack:** C#, VB.NET, XSLT, SQL Server, Powershell, Angular
+**Stack:** C#, VB.NET, XSLT, SQL Server, Powershell, Angular.js
 
 Contract Software Engineer @ **[Attaché Software](https://attachesoftware.com)**<br>
 *March 2012 – February 2013*<br>
