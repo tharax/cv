@@ -14,15 +14,20 @@ I do not need VISA sponsorship.<br>
 
 ## Skills
 
-Go (Golang), React.js, C#, SQL Server, MySQL, Git, Docker, Bash, Powershell, Javascript. <br>
+Go (Golang), React, React Native, C#, SQL Server, SQL, Git, Docker, CI/CD, Bash, Shell, Powershell, Javascript.<br>
 
 ## Profile
 
 I am a software engineer based in London. I am comfortable working in both Unix and Windows environments. I’ve been coding commercially since 2011, and as a hobby for the decade prior. My passion is high volume transactional systems, data analytics, and automation. My experience is mostly financial, working on accounting, expense tracking, trading platforms & banking systems.<br>
 
-My job is to deliver working, well tested solutions that follow industry best practices and standards. Where possible, I prefer to share & open source my projects. In my personal time I am active in my local developer communities, and when time allows I compete in hackathons & start-up weekends. I follow a number of blogs and websites to keep up with new trends and technologies.<br>
+My job is to deliver working, well tested, and maintainable solutions that follow industry best practices and standards. Where possible, I prefer to share & open source my projects. In my personal time I am active in my local developer communities, and when time allows I compete in hackathons & start-up weekends. I follow a number of blogs and websites to keep up with new trends and technologies.<br>
 
 ## Professional History
+
+Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
+*January 2018 - Current*<br>
+Tech Lead for the Application team. Designed and developed frontend iOS, Android, and web applications. Developed and maintained backend microservices. The frontend is written in React-Native & React; while the backend is written in Go and Rails. Implemented integration testing for our iOS app, worked to improve our CI/CD pipeline, and pair programmed with other engineers to share knowledge and advice where required. Also worked with the Automation team to develop and assist with web-scraping and backend services as required.<br>
+**Stack:** Go, React Native, React, Gitlab, Docker, Bash,  Ruby (Rails)
 
 Contract Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
 *June 2017 - September 2017*<br>
