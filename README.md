@@ -9,9 +9,6 @@
 **Linkedin:** [uk.linkedin.com/in/peterjamesrosser](https://uk.linkedin.com/in/peterjamesrosser)<br>
 **Github:** [github.com/tharax](https://github.com/tharax)<br>
 
-I speak English natively.<br>
-I do not need VISA sponsorship.<br>
-
 ## Skills
 
 Go (Golang), React, React Native, C#, SQL Server, SQL, Git, Docker, CI/CD, Bash, Shell, Powershell, Javascript.<br>
@@ -25,7 +22,7 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 ## Professional History
 
 Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
-*January 2018 - Current*<br>
+*January 2018 - August 2018*<br>
 Tech Lead for the Application team. Designed and developed frontend iOS, Android, and web applications. Developed and maintained backend microservices. The frontend is written in React-Native & React; while the backend is written in Go and Rails. Implemented integration testing for our iOS app, worked to improve our CI/CD pipeline, and pair programmed with other engineers to share knowledge and advice where required. Also worked with the Automation team to develop and assist with web-scraping and backend services as required.<br>
 **Stack:** Go, React Native, React, Gitlab, Docker, Bash,  Ruby (Rails)
 
