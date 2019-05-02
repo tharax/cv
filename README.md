@@ -11,7 +11,7 @@
 
 ## Skills
 
-Go (Golang), React, React Native, C#, SQL Server, SQL, Git, Docker, CI/CD, Bash, Shell, Powershell, Javascript.<br>
+Go (Golang), React, React Native, C#, SQL Server, SQL, Git, Docker, Kubernetes, Terraform, CI/CD, Bash, Shell, Powershell, Javascript.<br>
 
 ## Profile
 
@@ -20,6 +20,16 @@ I am a software engineer based in London. I am comfortable working in both Unix 
 My job is to deliver working, well tested, and maintainable solutions that follow industry best practices and standards. Where possible, I prefer to share & open source my projects. In my personal time I am active in my local developer communities, and when time allows I compete in hackathons & start-up weekends. I follow a number of blogs and websites to keep up with new trends and technologies.<br>
 
 ## Professional History
+
+Director @ **[Rosser Software](https://rossersoftware.com)**<br>
+*July 2016 - Current*<br>
+Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
+**Stack:** Go, MySQL, Bash
+
+Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
+*November 2018 - Current*<br>
+Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams.
+**Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Terraform, Vault, Consul, AWS, Bash
 
 Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
 *January 2018 - August 2018*<br>
@@ -30,11 +40,6 @@ Contract Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
 *June 2017 - September 2017*<br>
 Designed and developed various services in a microservices architecture for an e-payments start-up. Each service was written in Go or Python, with MySQL or Postgres as the Database, tests written in Cucumber then deployed using Docker. I worked on every part of the stack.<br>
 **Stack:** Go, MySQL, Docker, Cucumber, Bash, React.js
-
-Director @ **[Rosser Software](https://rossersoftware.com)**<br>
-*July 2016 - Current*<br>
-Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
-**Stack:** Go, MySQL, Bash
 
 Contract Software Engineer @ **[Series Eight](https://serieseight.com)**<br>
 *February - March 2017*<br>
