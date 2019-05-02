@@ -28,7 +28,7 @@ Designed, developed, and deploying software solutions for various clients and st
 
 Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
 *November 2018 - Current*<br>
-Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams.
+Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams.<br>
 **Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Terraform, Vault, Consul, AWS, Bash
 
 Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
