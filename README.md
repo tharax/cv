@@ -11,7 +11,7 @@
 
 ## Skills
 
-Go (Golang), React, React Native, C#, SQL Server, SQL, Git, Docker, Kubernetes, Terraform, CI/CD, Bash, Shell, Powershell, Javascript.<br>
+Go (Golang), React, React Native, Kubernetes, Terraform, CI/CD, Docker, Bash, C#, SQL Server, SQL, Git, Shell, Powershell, Javascript.<br>
 
 ## Profile
 
@@ -21,15 +21,15 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 ## Professional History
 
+Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
+*November 2018 - Current*<br>
+Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams. Designed static code analysis tools for our deployment pipelines. Automated & parallelised deployment pipelines. <br>
+**Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Helm, Terraform, Vault, Consul, AWS, Bash, Slack, Artifactory
+
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** Go, MySQL, Bash
-
-Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
-*November 2018 - Current*<br>
-Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams.<br>
-**Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Terraform, Vault, Consul, AWS, Bash
 
 Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
 *January 2018 - August 2018*<br>
