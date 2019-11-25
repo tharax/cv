@@ -21,15 +21,20 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 ## Professional History
 
-Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
-*November 2018 - Current*<br>
-Engineer on Software Reliability Team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams. Designed static code analysis tools for our deployment pipelines. Automated & parallelised deployment pipelines. <br>
-**Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Helm, Terraform, Vault, Consul, AWS, Bash, Slack, Artifactory
+Contract Software Engineer @ **[Open Banking](https://www.openbanking.org.uk/)**<br>
+*November 2019 - Current*<br>
+Engineer on Reference Apps & API team. Designed and developed open source tools that Financial Instutions use to test their implementations and prove compliance of Open Banking Standards and APIs. Provided support to troubleshoot bugs or failed test cases where possible.<br>
+**Stack:** Go, Vue.js, Docker, Bash
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** Go, MySQL, Bash
+
+Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
+*November 2018 - November 2019*<br>
+Engineer on Software Reliability team. Designed and developed internal tools and CD pipelines to deploy infrastructure and platform components for developer and SRE teams. Designed static code analysis tools for our deployment pipelines. Automated & parallelised deployment pipelines. <br>
+**Stack:** Go, Github, Jenkins, ConcourseCI, Docker, Kubernetes, Helm, Terraform, Vault, Consul, AWS, Bash, Slack, Artifactory
 
 Contract Software Engineer @ **[WonderBill](https://wonderbill.com/)**<br>
 *January 2018 - August 2018*<br>
