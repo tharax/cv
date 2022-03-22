@@ -11,7 +11,7 @@
 
 ## Skills
 
-Go (Golang), React, React Native, Kubernetes, Terraform, CI/CD, Docker, Bash, C#, SQL Server, SQL, Git, Shell, Powershell, Javascript.<br>
+Go (Golang), React, React Native, AWS, Kubernetes, Terraform, CI/CD, Docker, Bash, SQL, Git, Shell, Javascript.<br>
 
 ## Profile
 
@@ -21,15 +21,25 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 ## Professional History
 
-Contract Software Engineer @ **[Open Banking](https://www.openbanking.org.uk/)**<br>
-*November 2019 - Current*<br>
-Engineer on Reference Apps & API team. Designed and developed open source tools that Financial Instutions use to test their implementations and prove compliance of Open Banking Standards and APIs. Provided support to troubleshoot bugs or failed test cases where possible.<br>
-**Stack:** Go, Vue.js, Docker, Bash
+Contract Software Engineer @ **[Deliveroo](https://www.deliveroo.org.uk/)**<br>
+*January 2021 - Current*<br>
+Engineer on Consumer Pricing team. Designed and developed internal tools, pricing changes and A/B tests for all markets. We charge different fees to consumers based on variables - brands, regions, countries, etc. Working closely on cross-functional teams with data science and business operations.<br>
+**Stack:** Go, Ruby (Rails), Postgres, Kafka, Protobuf, Bash
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** Go, MySQL, Bash
+
+Contract Software Engineer @ **[Fujitsu](https://www.fujitsu.org.uk/)**<br>
+*October 2020 - March 2021*<br>
+Engineer on Project team. Designed and developed secure cloud infrastructure, data processing and storage for sensitive data for government. Mentored junior developers on the team around writing high throughput Go.<br>
+**Stack:** Go, C++, Docker, Bash, AWS
+
+Contract Software Engineer @ **[Open Banking](https://www.openbanking.org.uk/)**<br>
+*November 2019 - March 2020*<br>
+Engineer on Reference Apps & API team. Designed and developed open source tools that Financial Instutions use to test their implementations and prove compliance of Open Banking Standards and APIs. Provided support to troubleshoot bugs or failed test cases where possible.<br>
+**Stack:** Go, Docker, Bash
 
 Contract Software Engineer @ **[Zopa](https://www.zopa.com/)**<br>
 *November 2018 - November 2019*<br>
@@ -44,7 +54,7 @@ Tech Lead for the Application team. Designed and developed frontend iOS, Android
 Contract Software Engineer @ **[GlintPay](https://glintpay.com/)**<br>
 *June 2017 - September 2017*<br>
 Designed and developed various services in a microservices architecture for an e-payments start-up. Each service was written in Go or Python, with MySQL or Postgres as the Database, tests written in Cucumber then deployed using Docker. I worked on every part of the stack.<br>
-**Stack:** Go, MySQL, Docker, Cucumber, Bash, React.js
+**Stack:** Go, MySQL, Docker, Cucumber, Bash, React
 
 Contract Software Engineer @ **[Series Eight](https://serieseight.com)**<br>
 *February - March 2017*<br>
@@ -54,12 +64,12 @@ Designed, developed, and deployed a Twitter datamining application for location 
 Lead Developer @ **[Pershing](https://www.pershing.com)**<br>
 *April 2015 – August 2016*<br>
 Developed and maintained Front Office order processing software for automated and manual trading of funds & equities across the UK & Europe. I was also involved with triaging potentional missed orders and integration between our services and 3rd party vendors.<br>
-**Stack:** C#, SQL Server, Powershell
+**Stack:** .NET, C#, SQL Server, Powershell
 
 Software Engineer @ **[Fraedom](https://www.fraedom.com)**<br>
 *March 2013 – January 2015*<br>
 Developed and maintained extract interface and data export systems and custom interfacing work for big clients. We also did configuration and custom data reports as requested. Designed, developed and deployed internal tools to assist customer support.<br>
-**Stack:** C#, VB.NET, XSLT, SQL Server, Powershell, Angular.js
+**Stack:** .NET, C#, VB.NET, XSLT, SQL Server, Powershell
 
 Contract Software Engineer @ **[Attaché Software](https://attachesoftware.com)**<br>
 *March 2012 – February 2013*<br>
