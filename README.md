@@ -21,15 +21,22 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 ## Professional History
 
-Contract Software Engineer @ **[Deliveroo](https://www.deliveroo.org.uk/)**<br>
-*January 2021 - Current*<br>
-Engineer on Consumer Pricing team. Designed and developed internal tools, pricing changes and A/B tests for all markets. We charge different fees to consumers based on variables - brands, regions, countries, etc. Working closely on cross-functional teams with data science and business operations.<br>
-**Stack:** Go, Ruby (Rails), Postgres, Kafka, Protobuf, Bash
+Contract Software Engineer @ **[Flink](https://www.goflink.com/)**<br>
+*May 2021 - Current*<br>
+Engineer on Checkout & Payments team. Built and maintain cart api, order creator, and internal tools. Rolled out features and payment methods for different European markets.<br>
+- Migrated Payment Processor from Braintree to Adyen
+- Migrated eCommerce DB from Saleor to CommerceTools
+**Stack:** Go, Commercetools, Svelte, Protobuf, Bash
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** Go, MySQL, Bash
+
+Contract Software Engineer @ **[Deliveroo](https://www.deliveroo.org.uk/)**<br>
+*January 2021 - May 2021*<br>
+Engineer on Consumer Pricing team. Designed and developed internal tools, pricing changes and A/B tests for all markets. We charge different fees to consumers based on variables - brands, regions, countries, etc. Working closely on cross-functional teams with data science and business operations.<br>
+**Stack:** Go, Ruby (Rails), Postgres, Kafka, Protobuf, Bash
 
 Contract Software Engineer @ **[Fujitsu](https://www.fujitsu.org.uk/)**<br>
 *October 2020 - March 2021*<br>
