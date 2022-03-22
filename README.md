@@ -23,9 +23,7 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 Contract Software Engineer @ **[Flink](https://www.goflink.com/)**<br>
 *May 2021 - Current*<br>
-Engineer on Checkout & Payments team. Built and maintain cart api, order creator, and internal tools. Rolled out features and payment methods for different European markets.<br>
-- Migrated Payment Processor from Braintree to Adyen
-- Migrated eCommerce DB from Saleor to CommerceTools
+Engineer on Checkout & Payments team. Designed, developed and support cart, order and payment services and internal tools. Rolled out features and various payment methods for different European markets. Migrated Payment Processor from Braintree to Adyen. Migrated eCommerce DB from Saleor to CommerceTools.<br>
 **Stack:** Go, Commercetools, Svelte, Protobuf, Bash
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
