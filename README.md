@@ -89,10 +89,10 @@ Designed and developed reporting features and custom reporting modules for accou
 
 ## Qualifications
 
-Bachelor of Science (Major Computer Science)<br>
+**Bachelor of Science (Major Computer Science)**<br>
 *2011 University of Auckland*<br>
 Focus on Mathematics and Software Development, with interest papers in Philosophy, Economics and Accounting.<br>
 
-National Diploma of Quantity Surveying<br>
+**National Diploma of Quantity Surveying**<br>
 *2011 UNITEC New Zealand*<br>
 Focus on Project & Contract Management, Estimation, and Measurement.<br>
