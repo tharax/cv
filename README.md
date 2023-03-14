@@ -21,15 +21,21 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 
 ## Professional History
 
-Contract Software Engineer @ **[Flink](https://www.goflink.com/)**<br>
-*May 2021 - Current*<br>
-Engineer on Checkout & Payments team. Designed, developed and support cart, order and payment services and internal tools. Rolled out features and various payment methods for different European markets. Migrated Payment Processor from Braintree to Adyen. Migrated eCommerce DB from Saleor to CommerceTools.<br>
-**Stack:** Go, Commercetools, Svelte, Protobuf, Bash
+Contract Software Engineer @ **[Amboss](https://www.amboss.com/)**<br>
+*July 2022 - Current*<br>
+Engineer on Shop team. Designed, developed and support shop checkout, and access services and internal tools. Rolled out Stripe payment integration for the European market. Paired with other developers to teach them Go and microservice development techniques.<br>
+**Stack:** Go, Docker, Stripe, Jenkins
+
 
 Director @ **[Rosser Software](https://rossersoftware.com)**<br>
 *July 2016 - Current*<br>
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** Go, MySQL, Bash
+
+Contract Software Engineer @ **[Flink](https://www.goflink.com/)**<br>
+*May 2021 - July 2022*<br>
+Engineer on Checkout & Payments team. Designed, developed and supported cart, order and payment services and internal tools. Rolled out features and various payment methods for different European markets. Migrated Payment Processor from Braintree to Adyen. Migrated eCommerce DB from Saleor to CommerceTools.<br>
+**Stack:** Go, Commercetools, Svelte, Protobuf, Bash
 
 Contract Software Engineer @ **[Deliveroo](https://www.deliveroo.org.uk/)**<br>
 *January 2021 - May 2021*<br>
