@@ -26,11 +26,17 @@ My job is to deliver working, well tested, and maintainable solutions that follo
 Designed, developed, and deploying software solutions for various clients and start-up projects.<br>
 **Stack:** React, Go, Postgres, Github Actions, Docker, AWS
 
+**Lead Software Developer** @ **[Vocalink (Mastercard)](https://www.vocalink.com/)**<br>
+*January 2024 - June 2025*<br>
+Worked on a suite of financial crime prevention tools, including an AML platform, a consumer fraud detection engine, and a case management interface. Contributed primarily in Go, with some frontend work in TypeScript. Responsibilities included building region-specific features, resolving bugs, and maintaining core functionality across multiple products. Also supported product and adhoc feature design with technical
+requirements and limitations. Led discussions in the team around better testing and architecture choices to improve speed, reliability and testability.<br>
+**Stack:** Go, Oracle, Redis, Kafka, Kubernetes, Jenkins, TypeScript
+
 **Software Engineer (Contract)** @ **Undisclosed Client**<br>
 *August 2023 - October 2023*<br>
 Signed an NDA so cannot reveal client.<br>
 Built a secure credit card and payment information storage system. I built an API that served public encryption keys, and then processed encrypted inbound messages of sensitive payment information. Card data was re-encrypted at rest in the database. Merchants can make payment requests using only anonymous card IDs and we send proxy calls with card data to various payment processors.<br>
-**Stack:** Go, Postgres, AWS KMS, AWS DynamoDB, Typescript, Github, Docker
+**Stack:** Go, Postgres, AWS KMS, AWS DynamoDB, TypeScript, Github, Docker
 
 **Associate Software Engineer** with **[Equal Experts](https://www.equalexperts.com/)** @ **[Amboss](https://www.amboss.com/)**<br> 
 *July 2022 - April 2023*<br>
